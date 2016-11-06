@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>ChromeDriver2</id>
+        <version>2.25</version>
+        <title>ChromeDriver2</title>
+        <authors>Chromium and WebDriver teams</authors>
+        <owners>Yann ROBIN &amp; Andrew Lowe</owners>
+        <licenseUrl>https://sites.google.com/a/chromium.org/chromedriver/</licenseUrl>
+        <projectUrl>https://sites.google.com/a/chromium.org/chromedriver/</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>WebDriver is an open source tool for automated testing of webapps across many browsers. It provides capabilities for navigating to web pages, user input, JavaScript execution, and more. ChromeDriver is a standalone server which implements WebDriver's wire protocol for Chromium. It is being developed by members of the Chromium and WebDriver teams.</description>
+        <summary>ChromeDriver is a webdriver server for chrome</summary>
+        <tags>ChromeDriver chrome chromium webdriver selenium</tags>
+    </metadata>
+</package>
